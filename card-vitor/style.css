@@ -1,0 +1,120 @@
+.container{
+    width: 1000px;
+    height: 1900px;
+    background-image: url("./img/image\ 1\ \(1\).png");
+
+    color: #fff;
+    font-family: 'Carter one';
+}
+#titulo{
+    padding-top: 80px;
+}
+.titulos{
+ 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 40px;
+}
+.sobre{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.texto{
+
+    font-size: 20px;
+    width: 823px;
+}
+.musica{
+    border-radius: 20px;
+    color: #fff;
+    background-color: rgba(255, 255, 255, 0.26);
+    width: 400px;
+    height: 100px;
+    
+}
+.nome-musica{
+    
+    display: flex;
+    justify-content: center;
+}
+.caixa-botoes{
+    width: 250px;
+    padding-left: 120px;
+ 
+}
+.botoes{
+    display: flex;
+    justify-content: space-between;
+}
+.linha-1{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+.linha-2{
+    margin-top: 18px;
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+.clipe-1{
+    width: 352px;
+    height: 265px;
+    background-color: rgba(54, 25, 58, 0.295);
+}
+
+.capa-1{
+    width: 286px;
+    height: 235px;
+    margin-left: 34px;
+    margin-top: 15px;
+}
+.clipe-2{
+    width: 352px;
+    height: 265px;
+    background-color: rgba(54, 25, 58, 0.295);
+}
+
+.capa-2{
+    width: 286px;
+    height: 235px;
+    margin-left: 34px;
+    margin-top: 15px;
+}
+.clipe-3{
+    width: 352px;
+    height: 265px;
+    background-color: rgba(54, 25, 58, 0.295);
+}
+
+.capa-3{
+    width: 286px;
+    height: 235px;
+    margin-left: 34px;
+    margin-top: 15px;
+}
+.clipe-4{
+    width: 352px;
+    height: 265px;
+    background-color: rgba(54, 25, 58, 0.295);
+}
+
+.capa-4{
+    width: 286px;
+    height: 235px;
+    margin-left: 34px;
+    margin-top: 15px;
+}
+.linha-clipes1{
+    display: flex;
+    justify-content: center;
+    gap: 112px;
+}
+.linha-clipes2{
+    margin-top: 81px;
+    display: flex;
+    justify-content: center;
+    gap: 112px;
+}
