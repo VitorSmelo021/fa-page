@@ -72,45 +72,53 @@ audio::-webkit-media-controls-enclosure{
     width: 352px;
     height: 300px;
     background-color: rgba(54, 25, 58, 0.295);
+    border-radius: 40px;
 }
 
 .capa-1{
     width: 286px;
     height: 235px;
     margin-left: 34px;
+    border-radius: 10px;
 }
 .clipe-2{
     width: 352px;
     height: 300px;
     background-color: rgba(54, 25, 58, 0.295);
+    border-radius: 40px;
 }
 
 .capa-2{
     width: 286px;
     height: 235px;
     margin-left: 34px;
+    border-radius: 10px;
 }
 .clipe-3{
     width: 352px;
     height: 300px;
     background-color: rgba(54, 25, 58, 0.295);
+    border-radius: 40px;
 }
 
 .capa-3{
     width: 286px;
     height: 235px;
     margin-left: 34px;
+    border-radius: 10px;
 }
 .clipe-4{
     width: 352px;
     height: 300px;
     background-color: rgba(54, 25, 58, 0.295);
+    border-radius: 40px;
 }
 
 .capa-4{
     width: 286px;
     height: 235px;
     margin-left: 34px;
+    border-radius: 10px;
 }
 .linha-clipes1{
     display: flex;
